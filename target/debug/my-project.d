@@ -1,1 +1,1 @@
-/home/runner/Rust/target/debug/my-project: /home/runner/Rust/src/main.rs
+/home/runner/Rust-Code-Challenge/target/debug/my-project: /home/runner/Rust-Code-Challenge/src/main.rs

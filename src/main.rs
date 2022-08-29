@@ -1,3 +1,12 @@
+// Calculate the Median
+// Based on the input array get the median.
+
 fn main() {
-    println!("Hello, world!");
+    
 }
+
+/*
+fn main(){
+  println!("Hello, world!");
+}
+*/
